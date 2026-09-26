@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "右键菜单管理器/1.0.0": {
+        "runtime": {
+          "右键菜单管理器.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "右键菜单管理器/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
