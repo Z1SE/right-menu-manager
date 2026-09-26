@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 【这里填你的名字或 GitHub 用户名】
+Copyright (c) 2026 Z1SE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-补充说明（不属于 MIT 正文）：
-
-本程序会修改 Windows 注册表中的右键菜单项。虽然程序在每次删除前都会自动导出 .reg 备份，
-但使用者仍应自行判断风险并承担后果，尤其是在以管理员权限操作系统级项目时。
